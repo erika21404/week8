@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dont5</string>
+    <string name="Result">Result</string>
+    <string name="number">number</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+</resources>
